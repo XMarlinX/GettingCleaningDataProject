@@ -275,6 +275,7 @@ head(MeanSTDData)
 5                 -0.9954648
 6                 -0.9952387
 > 
+ ###Display Structure of MeanSTDData
  str(MeanSTDData)
 'data.frame':   10299 obs. of  88 variables:
  $ Subject                                       : int  2 2 2 2 2 2 2 2 2 2 ...

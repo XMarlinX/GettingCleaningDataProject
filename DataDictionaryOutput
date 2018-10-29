@@ -1,4 +1,6 @@
-> head(MeanSTDData)
+>
+###Display head of MeansSTDData to show that data are tidy
+head(MeanSTDData)
   Subject Code tBodyAccelerometer.mean...X tBodyAccelerometer.mean...Y
 1       2    5                   0.2885845                 -0.02029417
 2       2    5                   0.2784188                 -0.01641057

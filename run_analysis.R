@@ -3,7 +3,8 @@
 #
 #
 #Procedure
-#Download ZIP files from site listed in assignment
+#Download ZIP files from site listed in 
+#Unzip compressed files
 #Read TXT files into dataframes
 #Combine related data frames to single dataframes
 #Merge all dataframes into one dataframe holding all data
